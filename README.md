@@ -1,5 +1,3 @@
-![example workflow]
-
 # MopIt
 MopIt Mobile Application [Flutter]
 
@@ -11,7 +9,7 @@ To run the app successfully, follow these installation steps:
 ### 1. Clone the Repository:
 
 ```bash
-//
+https://github.com/adityaprashar01/Mopit.git
 ```
 
 ### 2. Open in IDE:
